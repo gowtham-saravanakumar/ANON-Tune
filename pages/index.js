@@ -142,6 +142,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-white text-ptext pb-28">
       <Head>
+    <meta name="google-site-verification" content="9QBd4yOr_QJp79eVB2Q4B3Dc-w1eHEDzse3pVUaqZww" />
         <title>ANON-Tune — Music for your vibe</title>
         <meta
           name="description"
